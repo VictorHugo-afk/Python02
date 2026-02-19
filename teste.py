@@ -9,4 +9,11 @@ print ('O lucro foi de', 1000 - 700)
 # int números inteiros 
 # variavel booleano descobre se é verdadeiro ou falso, true ou false
 # número com casa decimal flat ou números quebrados
-teve lucro_
+
+margem_lucro
+print ('A margem do lucro foi de', margem_lucro)
+#porcentagem 10% no pyhton é 0.1
+email
+print ('email@gmail.com')
+#round é uma função de arredondar
+margem/lucro
